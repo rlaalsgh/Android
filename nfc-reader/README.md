@@ -6,3 +6,4 @@ Simple NFC reader for Android based on the sample code from the Android SDK.
 <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="90"/></a>
 
 If you have problem compiling the app make sure you have the /libs/guavalib.jar included in the build path.
+Working 2
